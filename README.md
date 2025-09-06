@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Anuj Singh</h1>
+<h1 align="left">Hi 👋, I'm Anuj</h1>
 <h3 align="left">A passionate Data Research Analyst working to build repo in Quantitative Economics/Finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsingho&label=Profile%20views&color=0e75b6&style=flat" alt="anujsingho" /> </p>
