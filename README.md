@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Anuj</h1>
-<h3 align="left">A passionate Data Research Analyst working to build repo in Quantitative Economics/Finance.</h3>
+<h3 align="left">A passionate Commodity and Energy Data Research Analyst working to build repo to ombine the subjecct matters with Quantitative Economics/Finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsingho&label=Profile%20views&color=0e75b6&style=flat" alt="anujsingho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsingho" alt="anujsingho" /></a> </p>
 
-- 🔭 I’m currently working on **Regression Modelling**
+- 🔭 I’m currently working on **Regression Modelling over the prices of chemical / commodities and its relationship with its upstream value chains.**
 
-- 🌱 I’m currently learning **Time Series - Analysis and Its applications**
+- 🌱 I’m currently learning **Time Series - Analysis and Its applications in the commodity and energy analysis**
 
 - 👯 I’m looking to collaborate/Learn on **Machine Learning**
 
-- 🤝 I’m looking for help with **topics related to Deep Learning**
+- 🤝 I’m looking for help with **Choosing the correct model for preditive analytics over the commodities market segregated by TYPES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
